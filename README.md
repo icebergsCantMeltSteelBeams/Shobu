@@ -1,8 +1,6 @@
 Project Shobu:
 
-Goal: Create an html5 fighting game.
-
-Departments: Coding, Art, Writing
+Goal: Create an simple html5 fighting game.
 
 Members of Departments:
 	
@@ -17,14 +15,25 @@ Members of Departments:
 		?
 
 Features:
+
 	Base Features:
+	
 		Moving Around
+		
 		Different characters
+		
 		Different attacks for each character (No AOE)
+		
 		Sequence of sprites for each attack
+		
 		Background(s)
+		
 		Sound
+		
 		FINISH HIM!
+		
 	Redunkuelous Features:
+	
 		AOE Attacks
+		
 		Controller Support
