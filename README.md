@@ -19,24 +19,12 @@ Members of Departments:
 Features:
 	Base Features:
 		Moving Around
-			Coding Department
 		Different characters
-			Writing Department
-			Coding Department
-		Different attacks for each character
+		Different attacks for each character (No AOE)
 		Sequence of sprites for each attack
-			Come up with Different Attacks
-				Writing Department
-			Art Department
-			Coding Department
 		Background(s)
-			Art Department
 		Sound
-			Art Department
 		FINISH HIM!
-			Art Department
 	Redunkuelous Features:
+		AOE Attacks
 		Controller Support
-			Coding Department
-
-			
