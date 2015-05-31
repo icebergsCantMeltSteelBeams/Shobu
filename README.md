@@ -29,6 +29,8 @@ Features:
 				Writing Department
 			Art Department
 			Coding Department
+		Background(s)
+			Art Department
 		Sound
 			Art Department
 		FINISH HIM!
