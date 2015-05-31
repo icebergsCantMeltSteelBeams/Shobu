@@ -37,3 +37,6 @@ Features:
 		AOE Attacks
 		
 		Controller Support
+			Console Controllers
+			
+			Arcade Sticks
