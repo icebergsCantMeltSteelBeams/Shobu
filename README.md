@@ -1,4 +1,6 @@
-Project Shobu:ayyy
+Project Shobu:
+
+Example
 
 Goal: Create an simple html5 fighting game.
 
