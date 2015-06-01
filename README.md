@@ -1,4 +1,6 @@
-Project Shobu:ayy
+Project Shobu:
+
+Exampleara
 
 Goal: Create an simple html5 fighting game.
 
